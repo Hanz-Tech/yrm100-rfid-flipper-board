@@ -2131,7 +2131,7 @@
 			(at -0.035 2.225 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "260545bd-969d-4e89-a10f-758996a95a44")
+			(uuid "92639944-2949-48dd-98b7-a0792b6af5be")
 			(effects
 				(font
 					(size 1 1)
@@ -2143,7 +2143,7 @@
 			(at 38 -2.5 0)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "ce0ab703-3fbe-4d92-a260-836997fd4e9f")
+			(uuid "20bbf6c4-e575-4755-9251-7189e534a7dc")
 			(effects
 				(font
 					(size 1 1)
@@ -2156,7 +2156,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "368a68fa-d406-4921-89a5-490607fe325c")
+			(uuid "c47fdf89-da9d-4df9-b92e-d80c853f299b")
 			(effects
 				(font
 					(size 1 1)
@@ -2169,7 +2169,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2629114d-ab08-4fc2-9602-9a8ffa7231c5")
+			(uuid "19e88027-0123-44f3-be46-c33127c5ccd8")
 			(effects
 				(font
 					(size 1 1)
@@ -3682,6 +3682,28 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x08_P2.54mm_Vertical.step"
+			(offset
+				(xyz 0 0 -2)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 180 -90)
+			)
+		)
+		(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x10_P2.54mm_Vertical.step"
+			(offset
+				(xyz 35.5 0 -2)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 180 -90)
 			)
 		)
 	)

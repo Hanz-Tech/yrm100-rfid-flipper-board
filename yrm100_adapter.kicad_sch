@@ -3458,16 +3458,16 @@
 	)
 	(symbol
 		(lib_id "MCU_Module:Flipper_Zero")
-		(at 52.07 81.28 0)
+		(at 52.07 81.28 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "4ca03e19-bc06-4ef7-9dc6-c546eff6c6a7")
 		(property "Reference" "A1"
-			(at 52.07 60.96 0)
+			(at 72.39 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3475,7 +3475,7 @@
 			)
 		)
 		(property "Value" "Flipper_Zero"
-			(at 52.07 63.5 0)
+			(at 69.85 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3483,7 +3483,7 @@
 			)
 		)
 		(property "Footprint" "Module:Flipper_Zero_Angled"
-			(at 52.07 106.934 0)
+			(at 26.416 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3491,7 +3491,7 @@
 			)
 		)
 		(property "Datasheet" "https://docs.flipper.net/development"
-			(at 52.07 104.648 0)
+			(at 28.702 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3500,7 +3500,7 @@
 			)
 		)
 		(property "Description" "Portable multi-tool for pentesters and geeks in a toy-like body, 13 GPIO, USB to UART/SPI/I2C bridge/converter, Serial Wire Debug interface (SWD), 2.54 mm pin header connector"
-			(at 52.07 102.362 0)
+			(at 30.988 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
