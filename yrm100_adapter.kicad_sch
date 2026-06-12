@@ -4023,7 +4023,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C22775"
+		(property "LCSC" "C8218"
 			(at 121.92 111.76 0)
 			(effects
 				(font
@@ -4032,7 +4032,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB_PN" "C22775"
+		(property "JLCPCB_PN" "C8128"
 			(at 121.92 111.76 0)
 			(effects
 				(font
