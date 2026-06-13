@@ -3624,6 +3624,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C92660"
+			(at 78.74 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB_PN" "C92660"
+			(at 78.74 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e14a2f55-5887-4aec-be8b-8bf07a590357")
 		)
