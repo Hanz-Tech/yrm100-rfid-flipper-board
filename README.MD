@@ -12,8 +12,13 @@ This adapter board bridges the Flipper Zero's GPIO headers to the YRM100 UHF RFI
 - **5V power** and **3.3V logic** from the Flipper Zero
 - **Crossed UART** (TX ↔ RX) for serial communication with the YRM100
 
-- **Reverse-protection** on the 5V rail (BAT54 Schottky diode)
-- **Power integrity** — 47 µF bulk + 100 nF decoupling capacitors
+- **Power switch** 
+
+## Images
+
+![YRM100 Adapter PCB](image/yrm100_adapter_pcb.png)
+
+![YRM100 Adapter with Flipper Zero](image/with_flipper.png)
 
 ## Specifications
 
@@ -54,7 +59,6 @@ This adapter board bridges the Flipper Zero's GPIO headers to the YRM100 UHF RFI
 | 4 | RX |
 | 5 | EN (pulled up to 3.3V via 10 kΩ) |
 
-
 ## Files
 
 | File | Description |
@@ -76,4 +80,4 @@ This adapter board bridges the Flipper Zero's GPIO headers to the YRM100 UHF RFI
 
 ## License
 
-This project is released as-is for personal and hobbyist use.
+MIT License
