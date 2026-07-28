@@ -16,25 +16,17 @@ This adapter board bridges the Flipper Zero's GPIO headers to the YRM100 UHF RFI
 
 ## Images
 
-![1](image/1.JPG)
 
-![1](image/2.JPG)
-
-![1](image/3.JPG)
+![1](image/0.jpg)
 
 ![1](image/4.jpg)
 
-## Specifications
+![1](image/1.jpg)
 
-| Parameter | Value |
-|---|---|
-| Board Size | 55 × 64 mm |
-| Layers | 2-layer, 1.6 mm FR4 |
-| Corner Radius | 2 mm |
-| Surface Finish | HASL leaded |
-| Silkscreen | White on green |
-| Min Trace Width | 0.25 mm (signal) / 0.4 mm (power) |
-| Clearance | 0.2 mm |
+![1](image/2.jpg)
+
+![1](image/3.jpg)
+
 
 ## Connectors
 
