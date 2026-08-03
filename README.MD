@@ -3,6 +3,7 @@
 A hat-style adapter PCB that plugs directly into the **Flipper Zero** and connects to the **YRM100/1/2/3 UHF RFID module**, enabling long-range RFID reading/writing out of the box.
 Works with YRM1001/YRM1002/YRM1003 boards.
 
+Available for purchase from [Tindie](https://www.tindie.com/products/hanztech/flipper-zero-uhf-rfid-yrm100x-adapter/) or [Etsy](https://www.etsy.com/ca/listing/4545558711/flipper-zero-uhf-rfid-yrm100x-adapter)
 
 
 ## Overview
